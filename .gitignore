@@ -1,0 +1,11 @@
+*.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+kol1/*/x64
+kol1/x64
+kol1/build
+kol1/dependencies/include/catch2
+kol1/dependencies/lib
