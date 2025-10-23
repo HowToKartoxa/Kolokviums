@@ -1,0 +1,11 @@
+*.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+kol1/*/x64
+kol1/x64
+kol1/build
+kol1/dependencies/include/gtest
+kol1/dependencies/lib
